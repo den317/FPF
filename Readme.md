@@ -260,7 +260,7 @@ Start with the first practical entry that matches your project question. Then in
 
 Use the `Preface` for the cross-cutting ideas behind the pattern language. Use the Table of Content when you already know the pattern family or need a search-oriented overview. Use extended cases only when the compact first entry is not enough.
 
-If you use an AI assistant, attach or index `FPF-Spec.md` and ask for plain-language project help first. Let internal pattern names enter the conversation only when they make the reasoning more precise.
+If you use an AI assistant, attach or index `FPF-Spec.txt` and ask for plain-language project help first. Let internal pattern names enter the conversation only when they make the reasoning more precise.
 
 A good first prompt is:
 
